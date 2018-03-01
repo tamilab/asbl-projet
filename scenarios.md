@@ -2,8 +2,9 @@
 
 #Scénarios
 
-Thérapeute peut * accéder aux dossiers dans un espace membre
-           * accéder au profils d'autres docteurs + ses dossiers
+Thérapeute peut
+* accéder aux dossiers dans un espace membre
+* accéder au profils d'autres docteurs + ses dossiers
 
 Page d'accueil -> connexion -> page d'administration -> liste de patients avec barre de recherche + liste des thérapeutes -> les pages de thérapeutes contient une liste de patients
 
