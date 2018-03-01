@@ -10,7 +10,7 @@ Page d'accueil -> connexion -> page d'administration -> liste de patients avec b
 
 Un patient ou visiteur peut 
 * accéder à la page de contact (si nouveau patient) (onglet spécifique)
-* * -> Page d'accueil -> onglet contact (dans le menu principal et dans le footer)
+ * -> Page d'accueil -> onglet contact (dans le menu principal et dans le footer)
 * consulter une liste de "maladies" (ou diagnostiques) pour se renseigner sur sa maladie (onglet spécifique)
 -> Page d'accueil -> onglet diagnostiques
 * faire un don en cliquant sur le bouton de la page d'accueil ou dans la page "à propos"
