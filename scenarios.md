@@ -8,6 +8,7 @@
 * Types de thérapies (thérapie pour dépression, anxiété, enfant, etc)
 * Listes des activités et soins pour enfants (salle de jeu, accompagnement scolaire, etc) + événement annuel
 * Liste des sponsors
+* Citation d'une autre société ou témoignage d'un patient
 * Appel aux dons **lien vers la page des dons**
 * Section d'information : adresse, carte, num tél et **lien vers la page contact**
 
