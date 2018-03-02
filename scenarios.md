@@ -10,8 +10,8 @@ Un patient ou visiteur peut
 * faire un don en cliquant sur le bouton de la page d'accueil ou dans la page "à propos"
   * Page d'accueil -> bouton "faire un don" ou page "à propos" -> mène à un formulair avec méthode de payement etc
 * consulter la liste des spécialistes (onglet spécifique-> "à propos" ou "qui sommes-nous?")
-  * Page d'accueil -> onglet "à propos" et/ou "qui sommes-nous?" (+ lien dans le footer) -> list des thérapeutes avec photo/email et description
+  * Page d'accueil -> onglet "à propos" et/ou "qui sommes-nous?" (+ lien dans le footer) -> list des thérapeutes avec photo/email(?) et description
 * voir les événements à venir
-  * Page d'accueil et onglet "événements" avec calendrier
+  * Sur la page d'accueil et onglet "événements", images des sponsors et liens vers leur sites
 * accéder aux horaires
-  * Page d'accueil -> dans l'onglet "à propos" ou "contact" ou un onglet "horaire"
+  * Sur la page d'accueil (en pied de page) ET dans l'onglet "à propos" ou "contact" ou un onglet "horaire"
