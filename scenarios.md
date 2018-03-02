@@ -11,7 +11,7 @@
 * Citation d'une autre société ou témoignage d'un patient
 * Section d'information : adresse, carte, num tél et **lien vers la page contact**
 
-###Footer
+  Footer
 * **Faire un don**
 * **Qui sommes-nous?**
 * **À propos**
