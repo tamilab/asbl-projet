@@ -1,18 +1,39 @@
-# asbl-projet
+# asbl-projet - scénarios
 
-#Scénarios
-
-#Page d'accueil
-
-## Entête
+## Page d'accueil
 * Logo de l'ASBL
 * Menu de navigation : Accueil - diagnostiques - qui sommes-nous? - à propos - contact
-* Présentation de l'ASBL **lien vers la page contact*
+* Présentation de l'ASBL **lien vers la page contact**
 * Présentation des différents services disponibles (logopède, etc) **lien vers "qui sommes-nous?"**
 * Types de thérapies (thérapie pour dépression, anxiété, enfant, etc)
-* Listes des activités et soins pour enfants (salle de jeu, accompagnement scolaire, etc)
+* Listes des activités et soins pour enfants (salle de jeu, accompagnement scolaire, etc) + événement annuel
+* Liste des sponsors
 * Appel aux dons **lien vers la page des dons**
 * Section d'information : adresse, carte, num tél et **lien vers la page contact**
+
+## Page des diagnostiques
+* Liste des diagnostiques + barre de recherche
+* L'information peut être déplié pour afficher plus de texte et chaque "article" possède un lien externe pour approfondir le sujet
+
+## Liste du staff
+* Photo + fonction + email ou num tél
+* **lien vers la page de contact**
+
+## À propos
+* Présentation de l'ASBL et plus d'information sur ses origines
+* **lien vers la page du staff**
+* **lien vers la page de contact**
+* **lien vers la page de dons**
+
+##Contact
+* Adresse, carte, num tél, formulaire (email)
+
+##Page de dons
+* Choix de méthode de payement
+* Num de compte bancaire
+* **lien vers la page contact**
+
+## ---
 
 Un patient ou visiteur peut 
 * accéder à la page de contact (si nouveau patient) (onglet spécifique)
