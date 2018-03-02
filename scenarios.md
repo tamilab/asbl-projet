@@ -15,13 +15,13 @@
 * Liste des diagnostiques + barre de recherche
 * L'information peut être déplié pour afficher plus de texte et chaque "article" possède un lien externe pour approfondir le sujet
 
-## Liste du staff
+## Qui sommes-nous?
 * Photo + fonction + email ou num tél
 * **lien vers la page de contact**
 
 ## À propos
 * Présentation de l'ASBL et plus d'information sur ses origines
-* **lien vers la page du staff**
+* **lien vers la page "qui sommes-nous" **
 * **lien vers la page de contact**
 * **lien vers la page de dons**
 
