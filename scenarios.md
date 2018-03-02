@@ -25,10 +25,10 @@
 * **lien vers la page de contact**
 * **lien vers la page de dons**
 
-##Contact
+## Contact
 * Adresse, carte, num tél, formulaire (email)
 
-##Page de dons
+## Page de dons
 * Choix de méthode de payement
 * Num de compte bancaire
 * **lien vers la page contact**
