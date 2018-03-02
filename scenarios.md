@@ -22,7 +22,7 @@
 
 ## À propos
 * Présentation de l'ASBL et plus d'information sur ses origines
-* **lien vers la page "qui sommes-nous" **
+* **lien vers la page qui sommes-nous? **
 * **lien vers la page de contact**
 * **lien vers la page de dons**
 
